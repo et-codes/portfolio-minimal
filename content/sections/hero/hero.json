@@ -1,5 +1,5 @@
 {
-  "intro": "Hi",
+  "intro": "Hi!",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
@@ -8,13 +8,13 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm Eric Thornton.",
+  "title": "I'm Eric Thornton...",
   "subtitle": {
-    "prefix": "I am a ",
+    "prefix": "...and I am a ",
     "highlight": "software developer",
     "suffix": "."
   },
-  "description": "I have a passion for coding and building responsive full-stack applications.",
+  "description": "I have a passion for writing code and building responsive full-stack applications.",
   "socialProfiles": {
     "from": ["LinkedIn", "Twitter", "Github", "Mail"],
     "showIcons": true
