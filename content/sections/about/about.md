@@ -1,14 +1,12 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/eric-drumming.png"
+imageAlt: "About Me"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+I had my first contact with a computer in 6th grade. Our classroom had a Commodore PET, and I showed such a strong interest in it that our pricipal allowed me to take it home on weekends. I still remember that magical feeling when I wrote my first BASIC program that animated text characters on the screen.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+Since then, I've always had a love of computers and computing. I got a degree in Electrical & Computer Engineering, where I learned C, assembly, and digital logic. Later on I learned Python, and have recently been focusing on full-stack web development. My engineering and management career has taken me in diverse directions, but I've always been drawn to projects that involve technology and computing.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+When I'm not working on coding projects, I play the drums, which is another life-long passion of mine. Like coding, playing music allows me to get into that "flow-state", where the outside world disappears and I am able to focus my mind completely.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+I live in sunny El Paso, Texas with my beautiful wife and precocious son.

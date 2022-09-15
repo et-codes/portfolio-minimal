@@ -1,58 +1,58 @@
 {
   "interests": [
     {
+      "label": "HTML",
+      "image": {
+        "src": "../../images/html.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "CSS",
+      "image": {
+        "src": "../../images/css.png",
+        "alt": ""
+      }
+    },
+    {
       "label": "JavaScript",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/js.png",
         "alt": ""
       }
     },
     {
       "label": "Python",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/python.png",
         "alt": ""
       }
     },
     {
       "label": "NodeJS",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/node.png",
         "alt": ""
       }
     },
     {
       "label": "React",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/react.png",
         "alt": ""
       }
     },
     {
       "label": "Bootstrap",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/bootstrap.png",
         "alt": ""
       }
     },
     {
       "label": "Express",
       "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Project Management",
-      "image": {
-        "src": "../../images/gatsby.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Leadership",
-      "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/express.png",
         "alt": ""
       }
     }
