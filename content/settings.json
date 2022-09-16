@@ -12,7 +12,7 @@
       "github": "https://github.com/et-codes",
       "linkedin": "https://www.linkedin.com/in/ethornton/",
       "twitter": "https://twitter.com/eric__thornton",
-      "mail": "mailto:ericthornton43@gmail.com"
+      "mail": "mailto:ericthornton43+inquiries@gmail.com"
     }
   },
   "siteConfiguration": {
@@ -29,10 +29,7 @@
         "label": "Resume",
         "url": "/resume.pdf"
       },
-      "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
-      ]
+      "footer": [{ "label": "To Top", "url": "/" }]
     },
     "featureToggles": {
       "useDarkModeAsDefault": false,
