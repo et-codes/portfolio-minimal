@@ -1,10 +1,10 @@
 {
   "name": "Eric Thornton",
   "email": "ericthornton43@gmail.com",
-  "description": "I'd love to hear from you!  Please contact me via your preferred method below.",
+  "description": "I'd love to hear from you!  Please contact me via your preferred method.",
   "image": {
-    "src": "../../images/eric-thornton-black.png",
-    "alt": "Gatsby Logo"
+    "src": "../../images/eric.png",
+    "alt": "Eric Portrait"
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Twitter", "Github", "Mail"],

@@ -2,47 +2,74 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "EXTERNAL API, CACHING",
+      "title": "Star Wars Character Search",
+      "description": "This app was built with React functional components, and styling was done using React-Bootstrap. Axios is used to request data from the swapi.dev Star Wars API.  I implemented a basic caching system that saves the responses for API calls for 72 hours.",
+      "tags": ["React", "Axios", "Bootstrap"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/swapi-screenshot.png",
+        "alt": "Star Wars Character Search",
+        "linkTo": "https://github.com/et-codes/swapi"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/et-codes/swapi"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://radiant-basin-32050.herokuapp.com/"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "FORM CONTROLS, LOCAL STORAGE, RESPONSIVE",
+      "title": "Expense Tracker App",
+      "description": "This is a basic expense-tracking app using local storage for persistence. In a production scenario, a database with authentication would be used instead.  The project was written in JavaScript using React. Bootstrap was used for styling. I enjoyed making the layout mobile-friendly and responsive to various screen sizes.",
+      "tags": ["React", "JavaScript", "Bootstrap"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/expense-screenshot.png",
+        "alt": "Expense tracker app",
+        "linkTo": "https://github.com/et-codes/expense-tracker"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/et-codes/expense-tracker"
+        },
+        {
+          "type": "external",
+          "url": "https://et-expense-tracker.herokuapp.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "VANILLA JS, CANVAS, CONTROL LOOP",
+      "title": "Snake Game",
+      "description": "Let's go back in time and play some Snake! The classic game written in vanilla JavaScript, it includes a multicolored snake, tracking of high scores, and four (4!) difficulty levels to keep you challenged during your Zoom calls. I wrote another version of this game in Python. It's a fun coding challenge.",
+      "tags": ["HTML", "CSS", "JavaScript"],
+      "image": {
+        "src": "../../images/snake-screenshot.png",
+        "alt": "Snake Game",
+        "linkTo": "https://github.com/et-codes/js-snake"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/et-codes/js-snake"
+        },
+        {
+          "type": "external",
+          "url": "https://et-codes.github.io/js-snake"
         }
       ]
     }
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "Visit my GitHub repository",
+    "url": "https://github.com/et-codes"
   }
 }
