@@ -50,9 +50,16 @@
       }
     },
     {
-      "label": "Express",
+      "label": "TypeScript",
       "image": {
-        "src": "../../images/express.png",
+        "src": "../../images/ts-logo-128.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Flask",
+      "image": {
+        "src": "../../images/flask.png",
         "alt": ""
       }
     }
@@ -60,6 +67,6 @@
   "button": {
     "visible": true,
     "label": "+ Load More",
-    "initiallyShownInterests": 8
+    "initiallyShownInterests": 9
   }
 }
