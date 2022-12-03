@@ -2,6 +2,72 @@
   "projects": [
     {
       "visible": true,
+      "category": "EXTERNAL API, DATABASE, SESSION AUTHENTICATION",
+      "title": "Stock Trading Simulator",
+      "description": "Trading Wheels is a stock trading simulation app. The user starts with $100k of virtual money with which to buy and sell individual stocks.  The client was built in JavaScript with React, and the server was written in Python, using Flask, and connects to a PostreSQL database.  Stock data is fetched from the IEX Cloud API.",
+      "tags": ["React", "Flask", "Bootstrap", "PostgreSQL"],
+      "image": {
+        "src": "../../images/tw-screenshot.png",
+        "alt": "Trading Wheels Stock Trading Simulator",
+        "linkTo": "https://github.com/et-codes/trading-wheels"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/et-codes/trading-wheels"
+        },
+        {
+          "type": "external",
+          "url": "https://et-trading.herokuapp.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "WEBSOCKETS, DATABASE, TOKEN AUTHENTICATION",
+      "title": "Real-Time Chat App",
+      "description": "Yadda Yadda Yadda is a real-time chat app that is configurable with multiple channels.  Websockets are used to update the client applications with the active user list and new messages.  Messages and user data are saved in a PostgreSQL database.  React was used for the front end, Flask for the server, and styling was achieved using React-Bootstrap.",
+      "tags": ["React", "Flask", "Bootstrap", "PostgreSQL", "SocketIO"],
+      "image": {
+        "src": "../../images/chat-screenshot.png",
+        "alt": "Star Wars Character Search",
+        "linkTo": "https://github.com/et-codes/chat-app"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/et-codes/chat-app"
+        },
+        {
+          "type": "external",
+          "url": "https://et-chat-app.herokuapp.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "EXTERNAL API, CUSTOM CSS",
+      "title": "Twitter Search App",
+      "description": "Twitter Showcase allows the user to search recent Tweets based on keyword or @user search terms.  It navigates the labrynthine Twitter API to return the top results with Twitter-like presentation and styling.  There is a page featuring random Tweets from a few of my favorite drummers.  The Python/Flask server provides a simple interface with the Twitter API for the client application, which was written in JavaScript with React.  Styling was done by me with custom CSS.",
+      "tags": ["React", "CSS", "Flask"],
+      "image": {
+        "src": "../../images/tweet-screenshot.png",
+        "alt": "Star Wars Character Search",
+        "linkTo": "https://github.com/et-codes/twitter-showcase"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/et-codes/twitter-showcase"
+        },
+        {
+          "type": "external",
+          "url": "https://et-twitter-app.herokuapp.com/"
+        }
+      ]
+    },
+    {
+      "visible": false,
       "category": "EXTERNAL API, CACHING",
       "title": "Star Wars Character Search",
       "description": "This app was built with React functional components, and styling was done using React-Bootstrap. Axios is used to request data from the swapi.dev Star Wars API.  I implemented a basic caching system that saves the responses for API calls for 72 hours.",
@@ -23,7 +89,7 @@
       ]
     },
     {
-      "visible": true,
+      "visible": false,
       "category": "FORM CONTROLS, LOCAL STORAGE, RESPONSIVE",
       "title": "Expense Tracker App",
       "description": "This is a basic expense-tracking app using local storage for persistence. In a production scenario, a database with authentication would be used instead.  The project was written in JavaScript using React. Bootstrap was used for styling. I enjoyed making the layout mobile-friendly and responsive to various screen sizes.",
@@ -45,7 +111,7 @@
       ]
     },
     {
-      "visible": true,
+      "visible": false,
       "category": "VANILLA JS, CANVAS, CONTROL LOOP",
       "title": "Snake Game",
       "description": "Let's go back in time and play some Snake! The classic game written in vanilla JavaScript, it includes a multicolored snake, tracking of high scores, and four (4!) difficulty levels to keep you challenged during your Zoom calls. I wrote another version of this game in Python. It's a fun coding challenge.",

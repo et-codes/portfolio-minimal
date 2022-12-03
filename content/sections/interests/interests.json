@@ -22,13 +22,6 @@
       }
     },
     {
-      "label": "Python",
-      "image": {
-        "src": "../../images/python.png",
-        "alt": ""
-      }
-    },
-    {
       "label": "NodeJS",
       "image": {
         "src": "../../images/node.png",
@@ -43,16 +36,16 @@
       }
     },
     {
-      "label": "Bootstrap",
+      "label": "Python",
       "image": {
-        "src": "../../images/bootstrap.png",
+        "src": "../../images/python.png",
         "alt": ""
       }
     },
     {
-      "label": "TypeScript",
+      "label": "Bootstrap",
       "image": {
-        "src": "../../images/ts-logo-128.png",
+        "src": "../../images/bootstrap.png",
         "alt": ""
       }
     },
@@ -62,11 +55,25 @@
         "src": "../../images/flask.png",
         "alt": ""
       }
+    },
+    {
+      "label": "PostgreSQL",
+      "image": {
+        "src": "../../images/PostgreSQL.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "TypeScript",
+      "image": {
+        "src": "../../images/ts-logo-128.png",
+        "alt": ""
+      }
     }
   ],
   "button": {
     "visible": true,
     "label": "+ Load More",
-    "initiallyShownInterests": 9
+    "initiallyShownInterests": 6
   }
 }
