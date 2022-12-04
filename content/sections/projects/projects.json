@@ -9,7 +9,7 @@
       "image": {
         "src": "../../images/tw-screenshot.png",
         "alt": "Trading Wheels Stock Trading Simulator",
-        "linkTo": "https://github.com/et-codes/trading-wheels"
+        "linkTo": "https://et-trading.herokuapp.com/"
       },
       "links": [
         {
@@ -30,8 +30,8 @@
       "tags": ["React", "Flask", "Bootstrap", "PostgreSQL", "SocketIO"],
       "image": {
         "src": "../../images/chat-screenshot.png",
-        "alt": "Star Wars Character Search",
-        "linkTo": "https://github.com/et-codes/chat-app"
+        "alt": "Chat App",
+        "linkTo": "https://et-chat-app.herokuapp.com/"
       },
       "links": [
         {
@@ -52,8 +52,8 @@
       "tags": ["React", "CSS", "Flask"],
       "image": {
         "src": "../../images/tweet-screenshot.png",
-        "alt": "Star Wars Character Search",
-        "linkTo": "https://github.com/et-codes/twitter-showcase"
+        "alt": "Twitter Search App",
+        "linkTo": "https://et-twitter-app.herokuapp.com/"
       },
       "links": [
         {
