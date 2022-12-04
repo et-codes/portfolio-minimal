@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-portfolio-minimal-theme",
+  "name": "eric-thornton-portfolio",
   "version": "1.0.0",
-  "description": "A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.",
+  "description": "Eric Thornton, software developer, portfolio website.",
   "scripts": {
     "clean": "gatsby clean",
     "develop": "gatsby develop",
